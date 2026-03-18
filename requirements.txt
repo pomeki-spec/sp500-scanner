@@ -1,6 +1,6 @@
 streamlit
 yfinance
-pandas
+pandas==2.2.2
 pandas-ta
 requests
 lxml
